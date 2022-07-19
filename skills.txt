@@ -1,0 +1,30 @@
+terminal,
+git,
+JavaScript,
+Postman
+
+
+
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+skills.txt[+] [unix] (15:40 19/07/2022)                                  3,1 All
+-- INSERT --
+
