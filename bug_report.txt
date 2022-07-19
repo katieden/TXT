@@ -1,0 +1,12 @@
+"Authorization page - errors in the console when clicking on Login button",
+
+Steps to reproduce
+1) Open url,
+2) Enter login and password,
+3) Click on Login
+
+expected result: User authorized,
+actual result: Erorrs in console,
+enviroment: chrome,
+severity: Blocker,
+attachment": "erorrs.png"
